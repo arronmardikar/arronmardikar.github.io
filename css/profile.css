@@ -18,3 +18,7 @@ strong {
 .jumbotron {
 	font-style: Calibri; 
 }
+
+img {
+	width: 100%;
+}
